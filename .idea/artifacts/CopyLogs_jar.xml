@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CopyLogs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CopyLogs_jar</output-path>
+    <root id="archive" name="CopyLogs.jar">
+      <element id="module-output" name="CopyLogs" />
+    </root>
+  </artifact>
+</component>
